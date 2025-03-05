@@ -3,3 +3,4 @@
 - en desarrollo
 
 - descarga el codigo y ejecutalo :)
+- prueba de conexion con git 
